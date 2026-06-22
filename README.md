@@ -7,11 +7,16 @@ If you want to add a new resource, please submit a pull request to improve this 
 ## Table of Contents
 
 - [ZKPs](#zkps)
+  - [Curated Lists for ZKPs](#curated-lists-for-zkps)
+  - [Courses](#courses)
+  - [Books](#books)
 - [Blogs](#blogs)
+  - [Specific blog posts / Vulnerability Disclosures](#specific-blog-posts--vulnerability-disclosures)
 - [Audits](#audits)
 - [Talks](#talks)
 - [CTFs and Puzzles](#ctfs-and-puzzles)
 - [Misc](#misc)
+- [Advisories](#advisories)
 - [Papers](#papers)
 - [Tools](#tools)
 
