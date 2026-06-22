@@ -175,6 +175,9 @@ If you want to add a new resource, please submit a pull request to improve this 
 - [Verifying Jolt zkVM Lookup Semantics](https://eprint.iacr.org/2024/1841)
 - [Consistency Verification for Zero-Knowledge Virtual Machine on Circuit-Irrelevant Representation](https://eprint.iacr.org/2025/2204)
 - [Formal Verification of the S-two AIR](https://arxiv.org/abs/2606.04311)
+- [Split Gröbner Bases for Satisfiability Modulo Finite Fields](https://link.springer.com/chapter/10.1007/978-3-031-65627-9_1)
+- [MCSat-based Finite Field Reasoning in the Yices2 SMT Solver](https://link.springer.com/chapter/10.1007/978-3-031-63498-7_23)
+- [An Effective Orchestral Approach to Satisfiability Modulo Prime Fields](https://arxiv.org/abs/2604.26709)
 
 ## Tools
 
