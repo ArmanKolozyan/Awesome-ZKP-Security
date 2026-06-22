@@ -91,7 +91,14 @@ If you want to add a new resource, please submit a pull request to improve this 
 - [Formal Verification of ZK Constraint Systems](https://delendum.xyz/writings/2022-09-04-formal-verification-zk-constraint-systems.html) (Sep 4, 2022)
 - [Groth16 Malleability](https://github.com/geometryxyz/groth16-malleability) (Last updated: Aug 1, 2022)
 - [SP1 Security Update (2 vulns disclosure)](https://blog.succinct.xyz/sp1-security-update-1-27-25/) (Jan 27, 2025)
+- [Introducing Clean, a Formal Verification DSL for ZK Circuits in Lean4](https://blog.zksecurity.xyz/posts/clean/) (Mar 27, 2025)
 - [Solana says zero-knowledge proofs were root of mid-April bug](https://blockworks.co/news/solana-bug-patch-zero-knowledge-proofs) ([fix](https://github.com/anza-xyz/agave/pull/5883)) (May 5, 2025)
+- [Comparison of Formal Verification Frameworks for Arithmetic Circuits](https://blog.zksecurity.xyz/posts/formal-verification-arithmetic-circuits/) (Nov 19, 2025)
+- [Unfaithful Claims: Breaking 6 zkVMs](https://osec.io/blog/2026-03-03-zkvms-unfaithful-claims/) (Mar 3, 2026)
+- [We beat Google's zero-knowledge proof of quantum cryptanalysis](https://blog.trailofbits.com/2026/04/17/we-beat-googles-zero-knowledge-proof-of-quantum-cryptanalysis/) (Apr 17, 2026)
+- [Verifying Poseidon in Clean: Why the Last 'sorry' Is About Primality](https://blog.zksecurity.xyz/posts/poseidon-clean/) (May 4, 2026)
+- [On Formal Verification and a Bug in SP1 Hypercube](https://zkevm.ethereum.foundation/blog/sp1-fv) (May 20, 2026)
+- [Circuit Breaker: The Missing Constraint That Compromised RISC Zero's zkVM](https://hackenproof.com/blog/for-hackers/risc-zero-zkvm-missing-constraint-vulnerability) (Jun 11, 2026)
 
 ## Audits
 
