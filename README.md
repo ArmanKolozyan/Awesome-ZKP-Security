@@ -178,6 +178,7 @@ If you want to add a new resource, please submit a pull request to improve this 
 - [Split Gröbner Bases for Satisfiability Modulo Finite Fields](https://link.springer.com/chapter/10.1007/978-3-031-65627-9_1)
 - [MCSat-based Finite Field Reasoning in the Yices2 SMT Solver](https://link.springer.com/chapter/10.1007/978-3-031-63498-7_23)
 - [An Effective Orchestral Approach to Satisfiability Modulo Prime Fields](https://arxiv.org/abs/2604.26709)
+- [Language-Agnostic Detection of Computation-Constraint Inconsistencies in ZKP Programs via Value Inference](https://www.computer.org/csdl/proceedings-article/sp/2026/606500d224/2geEWZFmujK)
 
 ## Tools
 
