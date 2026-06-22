@@ -172,6 +172,9 @@ If you want to add a new resource, please submit a pull request to improve this 
 - [Automated Soundness and Completeness Vetting of Polygon zkEVM](https://www.usenix.org/system/files/usenixsecurity25-peng-xinghao.pdf)
 - [ScaleCirc: Scaling the Analysis over Circom Circuits](https://ieeexplore.ieee.org/document/11334720)
 - [SoK: Understanding zkVM: From Research to Practice](https://eprint.iacr.org/2026/525)
+- [Verifying Jolt zkVM Lookup Semantics](https://eprint.iacr.org/2024/1841)
+- [Consistency Verification for Zero-Knowledge Virtual Machine on Circuit-Irrelevant Representation](https://eprint.iacr.org/2025/2204)
+- [Formal Verification of the S-two AIR](https://arxiv.org/abs/2606.04311)
 
 ## Tools
 
